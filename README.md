@@ -1,2 +1,2 @@
 # iGame
-(iGame)[https://lovegame.us.kg]
+(https://lovegame.us.kg)[iGame]
